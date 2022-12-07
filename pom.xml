@@ -5,11 +5,11 @@
     <groupId>zxf.example</groupId>
     <artifactId>zxf-maven-release-main</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:git@github.com:zanxiaofeng/zxf-maven-release-main.git</developerConnection>
-        <tag>v1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>

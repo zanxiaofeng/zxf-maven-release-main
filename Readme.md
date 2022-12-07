@@ -1,5 +1,6 @@
-# Please config maven setting file for idea
-
+# Maven setting
+- For maven from Idea, Please config idea maven setting from idea menu File/Settings.
+- For maven from command line, please use [mvn -s ./settings.xml]
 
 # snapshot
 - mvn deploy -s ./settings.xml
